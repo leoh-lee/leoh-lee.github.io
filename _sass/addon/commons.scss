@@ -689,7 +689,10 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: var(--sidebar-bg);
+  /*  background: var(--sidebar-bg); */
+  background-image: url('/assets/img/sidebar.png');
+  background-size: cover;
+  background-repeat: no-repeat;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for IE, Edge and Firefox */
@@ -749,7 +752,8 @@ $btn-mb: 0.5rem;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
     width: fit-content;
-    color: var(--site-title-color);
+    #color: var(--site-title-color);
+    color: #ffffffbd;
   }
 
   .site-subtitle {
