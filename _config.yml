@@ -119,9 +119,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: leoh-lee/leoh-lee.github.io # <gh-username>/<repo>
-    repo_id: R_kgD0NC-2dg
+    repo_id: R_kgDONC-2dg
     category: Comments
-    category_id: DIC_kwD0NC-2ds4CjjXc
+    category_id: DIC_kwDONC-2ds4CjjXc
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
