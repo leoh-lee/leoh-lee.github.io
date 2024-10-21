@@ -11,3 +11,31 @@
 @import 'layout/archives';
 @import 'layout/categories';
 @import 'layout/category-tag';
+
+@font-face {
+    font-family: 'GowunBatang-Regular';
+    src: url('/assets/fonts/GowunBatang-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GowunBatang-Bold';
+    src: url('/assets/fonts/GowunBatang-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Jua-Regular';
+    src: url('/assets/fonts/Jua-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansKR-Medium';
+    src: url('/assets/fonts/NonoSansKR-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
