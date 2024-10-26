@@ -60,6 +60,7 @@ static class PrimitiveTest {
 ![image](/assets/img/2024-10-26-DTO의-Wrapper와-Primitive/Pasted-image-20241026175539.png)
 
 결과와 같이 선언할 때, 기본값들이 초기화된다.
+
 | Type    | 기본값   |
 | ------- | -------- |
 | byte    | 0        |
@@ -83,6 +84,7 @@ List<int> list // X! 불가능
 ```
 
 제네릭 뿐만아니라 원시타입이 참조타입의 역할을 해야할 필요가 있는 경우를 위해 자바에서는 Wrapper Class를 제공한다.
+
 | 원시타입 | Wrapper |
 | -------- | ------- |
 | byte     | Byte    |
